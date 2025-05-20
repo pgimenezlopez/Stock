@@ -9,7 +9,7 @@ EXCEL_PATH = "stock_ejemplo.xlsx"
 NUMERO_DESTINO = "+59899749614"  # Cambiar por el número real
 
 # 🕒 Cuántos minutos en el futuro querés enviar el mensaje
-MINUTOS_A_FUTURO = 1
+MINUTOS_A_FUTURO = 2
 
 # 📊 Leer archivo Excel
 df = pd.read_excel(EXCEL_PATH)
